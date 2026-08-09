@@ -1,0 +1,132 @@
+[
+  {
+    "name": "MediCore - Hospital Management Dashboard",
+    "category": "web",
+    "image": "medicore",
+    "desc": "A modern hospital management dashboard UI for managing patients, doctors, appointments, and healthcare operations.",
+    "links": {
+      "view": "https://github.com/probal2005/MediCore",
+      "code": "https://github.com/probal2005/MediCore"
+    }
+  },
+  {
+    "name": "NexOS - AI Operating System",
+    "category": "ai",
+    "image": "nexos",
+    "desc": "An AI-powered operating system concept with smart applications, file management, terminal, and AI assistant features.",
+    "links": {
+      "view": "https://github.com/probal2005/NexOS",
+      "code": "https://github.com/probal2005/NexOS"
+    }
+  },
+  {
+    "name": "JavaScript Projects Collection",
+    "category": "javascript",
+    "image": "javascript-projects",
+    "desc": "Collection of JavaScript projects demonstrating DOM manipulation, logic building, and frontend development.",
+    "links": {
+      "view": "https://github.com/probal2005/JavaScript-Projects",
+      "code": "https://github.com/probal2005/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "NexDoor",
+    "category": "web",
+    "image": "nexdoor",
+    "desc": "A modern web application project built with responsive design and interactive features.",
+    "links": {
+      "view": "https://github.com/probal2005/NexDoor",
+      "code": "https://github.com/probal2005/NexDoor"
+    }
+  },
+  {
+    "name": "Digital World Clock",
+    "category": "javascript",
+    "image": "digital-world-clock",
+    "desc": "A real-time digital world clock application showing multiple timezone information.",
+    "links": {
+      "view": "https://github.com/probal2005/Digital-World-Clock",
+      "code": "https://github.com/probal2005/Digital-World-Clock"
+    }
+  },
+  {
+    "name": "NexMart",
+    "category": "web",
+    "image": "nexmart",
+    "desc": "An e-commerce platform concept with modern UI components and shopping features.",
+    "links": {
+      "view": "https://github.com/probal2005/NexMart",
+      "code": "https://github.com/probal2005/NexMart"
+    }
+  },
+  {
+    "name": "Code Language",
+    "category": "javascript",
+    "image": "code-language",
+    "desc": "A programming language learning and coding-related project.",
+    "links": {
+      "view": "https://github.com/probal2005/Code-Language",
+      "code": "https://github.com/probal2005/Code-Language"
+    }
+  },
+  {
+    "name": "AI Resume Pro",
+    "category": "ai",
+    "image": "ai-resume-pro",
+    "desc": "An AI-based resume generation and optimization project.",
+    "links": {
+      "view": "https://github.com/probal2005/ai-resume-pro",
+      "code": "https://github.com/probal2005/ai-resume-pro"
+    }
+  },
+  {
+    "name": "IEEE Paper HTML Template",
+    "category": "web",
+    "image": "ieee-paper-template",
+    "desc": "A professional IEEE research paper HTML template design.",
+    "links": {
+      "view": "https://github.com/probal2005/ieee-paper-html-template",
+      "code": "https://github.com/probal2005/ieee-paper-html-template"
+    }
+  },
+  {
+    "name": "Modern 3 Page Resume",
+    "category": "web",
+    "image": "resume-modern",
+    "desc": "A modern three-page responsive resume website template.",
+    "links": {
+      "view": "https://github.com/probal2005/resume-3Page-modern",
+      "code": "https://github.com/probal2005/resume-3Page-modern"
+    }
+  },
+  {
+    "name": "CV Portfolio",
+    "category": "web",
+    "image": "cv",
+    "desc": "Professional CV and portfolio website project.",
+    "links": {
+      "view": "https://github.com/probal2005/CV",
+      "code": "https://github.com/probal2005/CV"
+    }
+  },
+  {
+    "name": "Student Attendance System Using Face Recognition",
+    "category": "ai",
+    "image": "face-attendance",
+    "desc": "AI-based attendance system using face recognition technology.",
+    "links": {
+      "view": "https://github.com/probal2005/Student-Attendance-System-using-Face-Recognition",
+      "code": "https://github.com/probal2005/Student-Attendance-System-using-Face-Recognition"
+    }
+  },
+  {
+    "name": "Face Recognition Project",
+    "category": "ai",
+    "image": "face-recognition",
+    "desc": "Computer vision project implementing face recognition using Python and machine learning techniques.",
+    "links": {
+      "view": "https://github.com/probal2005/face_recognition_project",
+      "code": "https://github.com/probal2005/face_recognition_project"
+    }
+  }
+]
